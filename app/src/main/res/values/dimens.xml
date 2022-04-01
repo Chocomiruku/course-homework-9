@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <dimen name="btn_height">55dp</dimen>
+    <dimen name="bottom_margin">16dp</dimen>
+    <dimen name="horizontal_padding_linear_sign_in">50dp</dimen>
+    <dimen name="list_item_horizontal_padding">22dp</dimen>
+    <dimen name="list_item_vertical_padding">14dp</dimen>
+    <dimen name="list_item_bottom_margin">8dp</dimen>
+    <dimen name="search_margin">8dp</dimen>
+</resources>

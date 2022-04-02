@@ -46,7 +46,7 @@ class SearchFragment : Fragment() {
                     hideResultsList()
                 } else {
                     viewModel.search(it.toString())
-                        .subscribeOn(Schedulers.io())
+                        .subscribeOn(Schedulers.computation())
                         .observeOn(AndroidSchedulers.mainThread())
                         .subscribe {
                             val diffResult = DiffUtil.calculateDiff(

@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Homework9</string>
+    <string name="app_name">Homework 9: RxJava</string>
+    <string name="auth">Авторизация</string>
+    <string name="login_hint">Email or phone number</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Войти</string>
+    <string name="id">ID:</string>
+    <string name="user_id">User\'s ID:</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="no_results">Данных нет</string>
 </resources>
